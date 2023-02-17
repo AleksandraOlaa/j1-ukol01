@@ -335,7 +335,7 @@ public class HlavniProgram {
         zofka.turnLeft(90);
         zofka.penDown();
 
-
+        // Cast 4
 
         for (var i = 1; i < 19; i++) {
             zofka.turnRight(20);
